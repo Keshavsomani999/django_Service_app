@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16e8aa75-24f3-4a16-ac51-3cbf38d686a0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/service/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +152,7 @@
       <workItem from="1653480801256" duration="62000" />
       <workItem from="1653529836925" duration="27000" />
       <workItem from="1653979081852" duration="1402000" />
-      <workItem from="1653981519088" duration="532000" />
+      <workItem from="1653981519088" duration="879000" />
     </task>
     <servers />
   </component>
